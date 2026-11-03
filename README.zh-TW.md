@@ -12,6 +12,10 @@
 |:---:|:---:|
 | [![金色鎖鏈落地的動態展示](assets/golden-chain-rain.gif)](https://00gamedevs.com/zh-TW/effects/golden-chain-rain/) | [![空間扭曲特效的循環展示](assets/dimensional-rend.gif)](https://00gamedevs.com/zh-TW/effects/dimensional-rend/) |
 
+| [闇鏈崩陣](https://00gamedevs.com/zh-TW/effects/darkchain-detonation/) | [黑洞](https://00gamedevs.com/zh-TW/effects/black-hole/) |
+|:---:|:---:|
+| [![紫色鎖鏈包圍目標後爆發](assets/darkchain-detonation.gif)](https://00gamedevs.com/zh-TW/effects/darkchain-detonation/) | [![扭曲周圍格線的旋轉黑洞](assets/black-hole.gif)](https://00gamedevs.com/zh-TW/effects/black-hole/) |
+
 ## 從預覽到你的網頁遊戲
 
 1. **選特效**：直接在瀏覽器觀看動畫。

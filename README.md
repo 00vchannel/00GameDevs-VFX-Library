@@ -12,6 +12,10 @@ Fire, magic, energy and impact effects for Three.js web games. Try them in your 
 |:---:|:---:|
 | [![Golden chains striking the ground](assets/golden-chain-rain.gif)](https://00gamedevs.com/en/effects/golden-chain-rain/) | [![A looping dimensional distortion effect](assets/dimensional-rend.gif)](https://00gamedevs.com/en/effects/dimensional-rend/) |
 
+| [Darkchain Detonation](https://00gamedevs.com/en/effects/darkchain-detonation/) | [Black Hole](https://00gamedevs.com/en/effects/black-hole/) |
+|:---:|:---:|
+| [![Purple chains surround a target and explode](assets/darkchain-detonation.gif)](https://00gamedevs.com/en/effects/darkchain-detonation/) | [![A swirling black hole bending the surrounding grid](assets/black-hole.gif)](https://00gamedevs.com/en/effects/black-hole/) |
+
 ## From preview to your web game
 
 1. **Pick an effect** and watch it play in the browser.

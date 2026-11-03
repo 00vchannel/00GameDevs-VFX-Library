@@ -12,6 +12,10 @@ Three.js の Web ゲームに、炎・魔法・エネルギー・ヒットエフ
 |:---:|:---:|
 | [![金色の鎖が地面に降り注ぐエフェクト](assets/golden-chain-rain.gif)](https://00gamedevs.com/en/effects/golden-chain-rain/) | [![空間が歪むエフェクトのループ映像](assets/dimensional-rend.gif)](https://00gamedevs.com/en/effects/dimensional-rend/) |
 
+| [Darkchain Detonation](https://00gamedevs.com/en/effects/darkchain-detonation/) | [Black Hole](https://00gamedevs.com/en/effects/black-hole/) |
+|:---:|:---:|
+| [![紫の鎖がターゲットを囲んで爆発するエフェクト](assets/darkchain-detonation.gif)](https://00gamedevs.com/en/effects/darkchain-detonation/) | [![周囲のグリッドを歪めるブラックホール](assets/black-hole.gif)](https://00gamedevs.com/en/effects/black-hole/) |
+
 ## プレビューから Web ゲームへ
 
 1. **エフェクトを選ぶ** — ブラウザーで動きを確認。
