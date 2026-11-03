@@ -1,37 +1,35 @@
 [English](README.md) · [繁體中文](README.zh-TW.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
 
-# 00GameDevs — Three.js 游戏素材库
+# 00GameDevs VFX Library
 
-在浏览器中预览 VFX、3D 物体与 Shader。调整喜欢的素材，再复制或下载代码，接入你的 Three.js 游戏。
+**免费网页游戏特效。实时预览，一键复制，自由调整。**
 
-**[进入素材库（英文）→](https://00gamedevs.com/en/)** · [繁体中文网站](https://00gamedevs.com/zh-TW/)
+为 Three.js 网页游戏加入火焰、魔法、能量与命中特效。在浏览器中预览、调整外观，无需注册即可复制代码。
 
-![00GameDevs 特效展示](assets/vfx-showcase.png)
+### [探索免费特效（英文网站）→](https://00gamedevs.com/en/)
 
-## 浏览素材
+| 金链骤雨 | 次元裂斩 |
+|:---:|:---:|
+| [![金色锁链落地的动态展示](assets/golden-chain-rain.gif)](https://00gamedevs.com/en/effects/golden-chain-rain/) | [![空间扭曲特效的循环展示](assets/dimensional-rend.gif)](https://00gamedevs.com/en/effects/dimensional-rend/) |
 
-- **[特效](https://00gamedevs.com/en/)**：投射物、光束、爆炸、魔法与画面效果。
-- **[物体](https://00gamedevs.com/en/objects/)**：植被、道具及游戏物体。
-- **[Shader](https://00gamedevs.com/en/shaders/)**：可预览和调整的材质及画面效果示例。
+## 从预览到你的网页游戏
 
-打开素材、预览，再点击“Copy”或“Download”即可取得代码。实际接入仍需适配项目的 Three.js 版本与渲染设置。素材与外观以正式网站为准，图片仅作展示。
+1. **选特效**：直接在浏览器中观看动画。
+2. **调外观**：使用素材提供的颜色、大小与速度选项。
+3. **一键复制**：点击 Copy 获取特效代码，也可以下载文件。
 
-## 让 AI 编程助手协助接入
+将代码接入 Three.js 游戏的场景与更新流程。一键复制的是代码；接入方式仍需适配你的项目。
 
-将 [AI 入口](https://00gamedevs.com/llms.txt)和[繁体中文整合指南](https://00gamedevs.com/ai/integration.zh-TW.md)交给助手，也可使用[英文指南](https://00gamedevs.com/ai/integration.en.md)。[v2 目录](https://00gamedevs.com/ai/catalog.v2.json)包含 VFX、物体、下载链接及 SHA-256 校验值；Shader 通过网站浏览和导出，不在此 AI 目录内。
+## 免费，也能用于商业游戏
 
-> 请阅读 https://00gamedevs.com/ai/integration.en.md 和 https://00gamedevs.com/ai/catalog.v2.json，为我授权的 Three.js 游戏选择素材。核对下载校验值、保留许可证，按照素材的接入类型整合，验证播放和资源清理，不改动游戏规则。
+导出的原创特效代码采用 **MIT 许可证**，可用于免费或付费网页游戏、自由修改，无需公开游戏源代码。请保留版权及许可文本，不强制在游戏制作人员名单中署名。[完整素材许可](ASSET-LICENSE.md)。
 
-公开目录不需要账号或 API key。详见 [AI 指南入口与流程](AI-GUIDE.md)。
+需要更多素材？同站还有 [3D 物体](https://00gamedevs.com/en/objects/)和 [Shader](https://00gamedevs.com/en/shaders/)。
 
-## 素材许可
+---
 
-网站 VFX、Shader 和物体导出功能交付的原创代码采用 **MIT 许可证**，可免费商用和修改。请保留版权及许可文本，不强制在制作人员名单中署名；第三方依赖仍须保留各自许可证。详见[完整素材许可](ASSET-LICENSE.md)。
+[进入素材库（英文）](https://00gamedevs.com/en/) · [繁体中文网站](https://00gamedevs.com/zh-TW/) · [整合资源](AI-GUIDE.md)
 
-此仓库仅介绍素材库，不包含整个网站源代码，也不是素材镜像站。素材许可不涵盖网站界面、品牌、头像及宣传图片。使用素材不需要克隆此仓库。
+作者：**[00vchannel](https://github.com/00vchannel)**。问题可通过网站的反馈按钮提交，或[联系我们](mailto:info@deepframestudiolimited.com)。
 
-## 语言与联系
-
-本介绍提供英文、繁体中文、简体中文及日文；正式网站与完整 AI 整合指南目前提供英文及繁体中文。
-
-作者：**00GameDevs / [@00vchannel](https://github.com/00vchannel)**。素材问题可通过网站的反馈按钮提交；联系邮箱：[info@deepframestudiolimited.com](mailto:info@deepframestudiolimited.com)。
+*GIF 为压缩展示录像，最新外观及可调选项以正式网站为准。本仓库介绍素材库，不包含网站源代码；素材许可不涵盖品牌及展示图片。正式网站提供英文与繁体中文。*
