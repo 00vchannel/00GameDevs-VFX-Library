@@ -14,7 +14,7 @@ Three.js の Web ゲームに、炎・魔法・エネルギー・ヒットエフ
 
 | [Darkchain Detonation](https://00gamedevs.com/en/effects/darkchain-detonation/) | [Black Hole](https://00gamedevs.com/en/effects/black-hole/) |
 |:---:|:---:|
-| [![紫の鎖がターゲットを囲んで爆発するエフェクト](assets/darkchain-detonation.gif)](https://00gamedevs.com/en/effects/darkchain-detonation/) | [![周囲のグリッドを歪めるブラックホール](assets/black-hole.gif)](https://00gamedevs.com/en/effects/black-hole/) |
+| [![紫の鎖がターゲットを囲んで爆発するエフェクト](assets/darkchain-detonation.gif)](https://00gamedevs.com/en/effects/darkchain-detonation/) | [![周囲のグリッドを歪めるブラックホール](assets/black-hole-textless.gif)](https://00gamedevs.com/en/effects/black-hole/) |
 
 ## プレビューから Web ゲームへ
 

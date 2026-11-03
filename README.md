@@ -14,7 +14,7 @@ Fire, magic, energy and impact effects for Three.js web games. Try them in your 
 
 | [Darkchain Detonation](https://00gamedevs.com/en/effects/darkchain-detonation/) | [Black Hole](https://00gamedevs.com/en/effects/black-hole/) |
 |:---:|:---:|
-| [![Purple chains surround a target and explode](assets/darkchain-detonation.gif)](https://00gamedevs.com/en/effects/darkchain-detonation/) | [![A swirling black hole bending the surrounding grid](assets/black-hole.gif)](https://00gamedevs.com/en/effects/black-hole/) |
+| [![Purple chains surround a target and explode](assets/darkchain-detonation.gif)](https://00gamedevs.com/en/effects/darkchain-detonation/) | [![A swirling black hole bending the surrounding grid](assets/black-hole-textless.gif)](https://00gamedevs.com/en/effects/black-hole/) |
 
 ## From preview to your web game
 

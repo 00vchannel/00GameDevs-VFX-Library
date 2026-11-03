@@ -14,7 +14,7 @@
 
 | [暗链崩阵](https://00gamedevs.com/en/effects/darkchain-detonation/) | [黑洞](https://00gamedevs.com/en/effects/black-hole/) |
 |:---:|:---:|
-| [![紫色锁链包围目标后爆发](assets/darkchain-detonation.gif)](https://00gamedevs.com/en/effects/darkchain-detonation/) | [![扭曲周围网格的旋转黑洞](assets/black-hole.gif)](https://00gamedevs.com/en/effects/black-hole/) |
+| [![紫色锁链包围目标后爆发](assets/darkchain-detonation.gif)](https://00gamedevs.com/en/effects/darkchain-detonation/) | [![扭曲周围网格的旋转黑洞](assets/black-hole-textless.gif)](https://00gamedevs.com/en/effects/black-hole/) |
 
 ## 从预览到你的网页游戏
 

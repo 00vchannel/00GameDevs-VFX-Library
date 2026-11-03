@@ -14,7 +14,7 @@
 
 | [闇鏈崩陣](https://00gamedevs.com/zh-TW/effects/darkchain-detonation/) | [黑洞](https://00gamedevs.com/zh-TW/effects/black-hole/) |
 |:---:|:---:|
-| [![紫色鎖鏈包圍目標後爆發](assets/darkchain-detonation.gif)](https://00gamedevs.com/zh-TW/effects/darkchain-detonation/) | [![扭曲周圍格線的旋轉黑洞](assets/black-hole.gif)](https://00gamedevs.com/zh-TW/effects/black-hole/) |
+| [![紫色鎖鏈包圍目標後爆發](assets/darkchain-detonation.gif)](https://00gamedevs.com/zh-TW/effects/darkchain-detonation/) | [![扭曲周圍格線的旋轉黑洞](assets/black-hole-textless.gif)](https://00gamedevs.com/zh-TW/effects/black-hole/) |
 
 ## 從預覽到你的網頁遊戲
 
