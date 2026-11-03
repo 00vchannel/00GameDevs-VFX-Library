@@ -8,7 +8,7 @@ Fire, magic, energy and impact effects for Three.js web games. Try them in your 
 
 ### [Explore free VFX →](https://00gamedevs.com/en/)
 
-| Golden Chain Rain | Dimensional Rend |
+| [Golden Chain Rain](https://00gamedevs.com/en/effects/golden-chain-rain/) | [Dimensional Rend](https://00gamedevs.com/en/effects/dimensional-rend/) |
 |:---:|:---:|
 | [![Golden chains striking the ground](assets/golden-chain-rain.gif)](https://00gamedevs.com/en/effects/golden-chain-rain/) | [![A looping dimensional distortion effect](assets/dimensional-rend.gif)](https://00gamedevs.com/en/effects/dimensional-rend/) |
 

@@ -8,7 +8,7 @@ Three.js の Web ゲームに、炎・魔法・エネルギー・ヒットエフ
 
 ### [無料の VFX を見る（英語サイト）→](https://00gamedevs.com/en/)
 
-| Golden Chain Rain | Dimensional Rend |
+| [Golden Chain Rain](https://00gamedevs.com/en/effects/golden-chain-rain/) | [Dimensional Rend](https://00gamedevs.com/en/effects/dimensional-rend/) |
 |:---:|:---:|
 | [![金色の鎖が地面に降り注ぐエフェクト](assets/golden-chain-rain.gif)](https://00gamedevs.com/en/effects/golden-chain-rain/) | [![空間が歪むエフェクトのループ映像](assets/dimensional-rend.gif)](https://00gamedevs.com/en/effects/dimensional-rend/) |
 

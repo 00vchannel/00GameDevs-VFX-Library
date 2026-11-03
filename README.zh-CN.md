@@ -8,7 +8,7 @@
 
 ### [探索免费特效（英文网站）→](https://00gamedevs.com/en/)
 
-| 金链骤雨 | 次元裂斩 |
+| [金链骤雨](https://00gamedevs.com/en/effects/golden-chain-rain/) | [次元裂斩](https://00gamedevs.com/en/effects/dimensional-rend/) |
 |:---:|:---:|
 | [![金色锁链落地的动态展示](assets/golden-chain-rain.gif)](https://00gamedevs.com/en/effects/golden-chain-rain/) | [![空间扭曲特效的循环展示](assets/dimensional-rend.gif)](https://00gamedevs.com/en/effects/dimensional-rend/) |
 
